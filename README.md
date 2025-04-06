@@ -1,0 +1,1 @@
+Ett litet test av mikrotjänster och RabbitMQ. När användningen av en post i WardrobeItem uppdateras skickas informationen mha RabbitMQ till WardrobeItemStatistics, som ska hantera användningsstatistik. Eftersom projektet är ett test saknas mycket funktionalitet.
