@@ -3,11 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.10.35013.160
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyWardrobe", "MyWardrobeMicroserviceExample\MyWardrobe.csproj", "{E10D3CD2-7D74-469A-B124-0A143F968DFE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyWardrobeStatistics", "MyWardrobeStatistics\MyWardrobeStatistics.csproj", "{1F05B74A-5AC9-4A5C-B8A9-F0F1B5CAF9DC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWardrobeStatistics", "MyWardrobeStatistics\MyWardrobeStatistics.csproj", "{1F05B74A-5AC9-4A5C-B8A9-F0F1B5CAF9DC}"
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyWardrobe2", "MyWardrobe2\MyWardrobe2.csproj", "{E1AB8A04-16A7-43DC-AABB-C1081B1D6450}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MyWardrobe2", "MyWardrobe2\MyWardrobe2.csproj", "{E1AB8A04-16A7-43DC-AABB-C1081B1D6450}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,10 +13,6 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{E10D3CD2-7D74-469A-B124-0A143F968DFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{E10D3CD2-7D74-469A-B124-0A143F968DFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{E10D3CD2-7D74-469A-B124-0A143F968DFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{E10D3CD2-7D74-469A-B124-0A143F968DFE}.Release|Any CPU.Build.0 = Release|Any CPU
 		{1F05B74A-5AC9-4A5C-B8A9-F0F1B5CAF9DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{1F05B74A-5AC9-4A5C-B8A9-F0F1B5CAF9DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F05B74A-5AC9-4A5C-B8A9-F0F1B5CAF9DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
